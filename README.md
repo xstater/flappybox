@@ -2,7 +2,7 @@
 a stupid game 
 
 ## icon:
-	![](https://github.com/xstater/flappybox/raw/master/icon.png)
+![](https://github.com/xstater/flappybox/raw/master/icon.png)
 
 ## screenshot:
-	![](https://github.com/xstater/flappybox/raw/master/screenshot.png)
+![](https://github.com/xstater/flappybox/raw/master/screenshot.png)
